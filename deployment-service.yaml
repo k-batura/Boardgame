@@ -10,7 +10,7 @@ spec:
   template:
     metadata:
       labels:
-        app: sanboardgameta
+        app: boardgame
     spec:
       containers:
         - name: boardgame
